@@ -21,7 +21,7 @@ const config = {
   MODE: process.env.MODE || "private",
   PREFIX: process.env.PREFIX || "!",
   OWNER_NAME: process.env.OWNER_NAME || "Gihan Dulakshana",
-  SUDO_NUMBER: process.env.OWNER_NUMBER || "94764313558",
+  SUDO_NUMBER: process.env.OWNER_NUMBER || "+94764313558",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
